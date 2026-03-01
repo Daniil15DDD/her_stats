@@ -53,10 +53,6 @@ Performance is calculated using:
 - Relic synergy  
 - Endgame benchmarks  
 
-Score scale:
-
-SSS+ > SSS > SS+ > SS > S > A
-
 ---
 
 ## 🛠 Tech Stack
