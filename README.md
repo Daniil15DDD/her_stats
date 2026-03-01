@@ -1,2 +1,2 @@
-# her_stats
+# hsr_stats
 HSR Stats App
