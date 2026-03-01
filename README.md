@@ -1,25 +1,27 @@
 # 🚀 HSR Stats
 
 <p align="center">
-  <img src="assets/import_screen.png" width="320" alt="HSR Stats Import Screen"/>
+  <img src="https://raw.githubusercontent.com/Daniil15DDD/hsr_stats/e6bbcee096863dfc4099d6948e7741bd124b080a/assets/IMG_0898.png" width="320"/>
 </p>
-
 <p align="center">
-  Import your Honkai: Star Rail UID and instantly analyze characters, relics, builds, and tier rankings.
-</p>
 
-<p align="center">
-  <a href="https://github.com/Daniil15DDD/hsr_stats/releases/tag/HSR">
-    <img src="https://img.shields.io/badge/⬇%20Download-HSR%20Release-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-  <a href="https://ko-fi.com/her_stats_app">
-    <img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-  <a href="https://github.com/Daniil15DDD/hsr_stats/stargazers">
-    <img src="https://img.shields.io/badge/⭐%20Star-on%20GitHub-FFD33D?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</p>
+<a href="https://ko-fi.com/her_stats_app">
+  <img src="https://img.shields.io/badge/☕%20Support%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
 
+<br><br>
+
+<a href="https://github.com/Daniil15DDD/hsr_stats/stargazers">
+  <img src="https://img.shields.io/github/stars/Daniil15DDD/hsr_stats?style=for-the-badge&color=FFD700&logo=github&label=STARS" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Daniil15DDD/hsr_stats/releases">
+  <img src="https://img.shields.io/github/downloads/Daniil15DDD/hsr_stats/total?style=for-the-badge&color=00C2FF&label=TOTAL%20DOWNLOADS" />
+</a>
+
+</p>
 ---
 
 ## ✨ Features
