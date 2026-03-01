@@ -1,6 +1,6 @@
 # 🚀 HSR Stats
 
-<p align="center">
+<p align="left">
   <img src="assets/IMG_0898.png" width="220" />
 </p>
 
