@@ -1,28 +1,24 @@
 # 🚀 HSR Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daniil15DDD/hsr_stats/e6bbcee096863dfc4099d6948e7741bd124b080a/assets/IMG_0898.png" width="320"/>
+  <img src="assets/IMG_0898.png" width="220" />
 </p>
+
 <p align="center">
 
 <a href="https://ko-fi.com/her_stats_app">
-  <img src="https://img.shields.io/badge/☕%20Support%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  <img src="https://img.shields.io/badge/☕%20SUPPORT%20ON-KO--FI-FF5E5B?style=for-the-badge" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/Daniil15DDD/hsr_stats/stargazers">
-  <img src="https://img.shields.io/github/stars/Daniil15DDD/hsr_stats?style=for-the-badge&color=FFD700&logo=github&label=STARS" />
-</a>
+<img src="https://img.shields.io/github/stars/Daniil15DDD/hsr_stats?style=for-the-badge&label=STARS&color=FFD700" />
 
 <br><br>
 
-<a href="https://github.com/Daniil15DDD/hsr_stats/releases">
-  <img src="https://img.shields.io/github/downloads/Daniil15DDD/hsr_stats/total?style=for-the-badge&color=00C2FF&label=TOTAL%20DOWNLOADS" />
-</a>
+<img src="https://img.shields.io/github/downloads/Daniil15DDD/hsr_stats/total?style=for-the-badge&label=TOTAL%20DOWNLOADS&color=00C2FF" />
 
 </p>
----
 
 ## ✨ Features
 
