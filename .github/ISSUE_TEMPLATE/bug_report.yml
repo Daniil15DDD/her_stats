@@ -4,7 +4,13 @@ title: "[Bug]: "
 labels: ["bug"]
 
 body:
-  - type: dropdown
+- type: checkboxes
+  attributes:
+    label: Is there an existing issue for this?
+    options:
+    - label: I have searched the existing issues
+      required: true
+- type: dropdown
     id: device
     attributes:
       label: Device
