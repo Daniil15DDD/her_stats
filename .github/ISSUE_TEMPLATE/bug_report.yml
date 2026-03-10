@@ -6,7 +6,7 @@ labels: ["bug"]
 body:
 - type: checkboxes
   attributes:
-    label: Is there an existing issue for this?
+    label: "Is there an existing issue for this?"
     options:
     - label: I have searched the existing issues
       required: true
