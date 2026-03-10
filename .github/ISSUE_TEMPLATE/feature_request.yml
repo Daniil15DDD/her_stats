@@ -4,6 +4,14 @@ title: "[Feature]: "
 labels: ["enhancement"]
 
 body:
+  - type: checkboxes
+    id: existing_issue
+    attributes:
+      label: "Is there an existing issue for this?"
+      options:
+        - label: "I have searched the existing issues"
+          required: true
+
   - type: textarea
     id: problem
     attributes:
