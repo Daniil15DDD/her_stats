@@ -19,7 +19,7 @@
 - 🛠 Build recommendations (Light Cones, Relics, Planars)  
 - 📈 Stat optimization guidance  
 - 🏆 Updated tier list  
-- 📱 Clean native iOS design  
+- 📱 Clean native design  
 
 ---
 
@@ -28,7 +28,6 @@
 Performance is calculated using:
 
 - Main stat optimization  
-- Substat weighting  
 - Light Cone efficiency  
 - Relic synergy  
 - Endgame benchmarks  
@@ -38,7 +37,8 @@ Performance is calculated using:
 ## 🛠 Tech Stack
 
 - Swift  
-- SwiftUI  
+- SwiftUI
+- Flutter
 - REST API integration  
 - Local UID storage  
 
