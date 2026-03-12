@@ -10,7 +10,7 @@
 
 [![Total Downloads](https://img.shields.io/github/downloads/Daniil15DDD/hsr_stats/total?style=for-the-badge&color=cyan&label=Total%20Downloads)](https://github.com/Daniil15DDD/hsr_stats/releases)
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-0A84FF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Daniil15DDD/hsr_stats/releases/latest)
+[![Download for iOS](https://img.shields.io/badge/Download-iOS%20Release-0A84FF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Daniil15DDD/hsr_stats/releases/latest) [![Download for Android](https://img.shields.io/badge/Download-Android%20Release-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Daniil15DDD/hsr_stats/releases/latest)
 
 ## ✨ Features
 
